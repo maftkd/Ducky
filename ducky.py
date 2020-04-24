@@ -77,7 +77,7 @@ while function != "" and function != "exit" and function != "close":
 	#go to prev log
 	elif function == "j":
 		ducks = list(filter(os.path.isfile, glob.glob(log_path + "\\*.duck")))
-		ducks.sort(key=lambda x: os.path.getmtime(x), reverse=True)
+		ducks.sort(key=lambda x: os.path.abspath(x), reverse=True)
 		prev_found=False
 		for duck in ducks:
 			head,tail = os.path.split(duck)
@@ -92,12 +92,12 @@ while function != "" and function != "exit" and function != "close":
 	#go to next log
 	elif function == "k":
 		ducks = list(filter(os.path.isfile, glob.glob(log_path + "\\*.duck")))
-		ducks.sort(key=lambda x: os.path.getmtime(x), reverse=True)
+		ducks.sort(key=lambda x: os.path.abspath(x))
 		next_found=False
 		for duck in ducks:
 			head,tail = os.path.split(duck)
 			date = tail.split('.')[0]
-			if date > cur_date:
+			if date > cur_date:				
 				getLogPath(date)
 				next_found=True
 				break;
