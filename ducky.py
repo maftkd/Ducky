@@ -15,6 +15,7 @@ yellow = "\033[1;33;33m"
 purple = "\033[1;35;35m"
 #change color cuz we fancy bois
 os.system('color 6F')
+os.system('mode con: cols=100 lines=40')
 
 #set up log dir
 log_path = os.path.dirname(os.path.abspath(__file__))+"\\logs"

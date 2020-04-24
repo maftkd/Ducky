@@ -1,1 +1,1 @@
-python C:\Users\michael\Documents\Apps\Ducky\ducky.py
+start cmd.exe /c python C:\Users\michael\Documents\Apps\Ducky\ducky.py
