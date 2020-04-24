@@ -1,0 +1,26 @@
+[Summary]
+Meditated on the development process.
+Created Ducky, an in-house logging tool
+Learned a ton of keyboard shortcuts from chrome to gmail, to sublime to vim
+Created git repo for ducky
+
+[Goals]
+Develop a tool to manage logging
+This means
+-writing logs
+-reading logs
+Also want to determine the ideal window color. I think black is a little boring, and blue is bad for the eyes
+This may also mean looking into and modifying vim colors
+
+[Misc]
+In the past logging has been an informal conglomeration of audio logs
+that I never ever listen to and just awkwardly ramble into
+There is power in righting stuff down
+Really easy to get carried away with colors.
+I think the main reason for changing colors at all is to signify that ducky is totally separate from my main terminal at a glance
+I gotta be honest here... I have not been too successful in long-term projects in the past. 
+I need to be realistic in order to improve.
+The idea is to shine some light on where I have been and avoid getting lost in the thick of the jungle.
+In addition, when the thing is complete, and ready to ship or at any remarkable point in development, it may be valuable to reflect and evaluate the creation of future works.
+So it may be worth noting that logging and journaling may be useful in short term projects and long-term projects alike.
+
