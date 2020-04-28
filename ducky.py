@@ -69,7 +69,7 @@ while function != "" and function != "exit" and function != "close":
 	os.system("cls")
 
 	#edit cur log
-	if function == "log" or function == "l":		
+	if function == "log" or function == "l" or function == "i":
 		os.system("vim "+cur_log)
 
 	#elif function == "read" or function == "r":

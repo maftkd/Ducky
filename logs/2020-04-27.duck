@@ -1,0 +1,16 @@
+[Summary]
+Explored some minesweeper variants from the past.
+
+[Goals]
+Study some of minesweeper's variants                                                   ...
+Implement sweep mechanic (resumed from 4-26)
+Design a level (resumed from 4-26)
+                                                                                       . .
+[Misc]                                                                                 ...
+Ok so I kind of like what I have here.
+I mean the movement feels good. The turning feels right.
+The placing of the flags makes sense, and the concept of minesweeper is familiar
+-
+Just not sure where to go next. I mean there's a couple things I said I'd do yesterday but didn't have time for. Let me try and take a look at those
+The little box of periods above appears to be enclosing a fungus gnat. Curious if it can see the dots...
+

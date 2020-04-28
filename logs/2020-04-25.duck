@@ -1,0 +1,27 @@
+[Summary]
+Generated 3D minesweeper idea.
+Drew some sketches.
+Created start of a prototype in Unity.
+> basic input system
+> basic neighboring bomb detection algorithm
+> placeholder particle system and game over flow
+
+[Goals]
+Draw up some game design ideas including pen+paper wireframes
+Reflect on the type of game that would be interesting to produce
+Try combining seemingly disparate ideas and brainstorming
+
+[Misc]
+What should I do today?
+Do I just start making a game?
+-
+ok current working idea as a minesweeper variant where you control an avatar with limited reach
+-
+As far as the process goes, this was not the first Idea I came up with.
+First it was first-person minesweeper, then third person, and also contemplated doing a minesweeper rogue mashup.
+The notion was interesting enough that I was compelled to start developing.
+Now that I have the basic movement and some starter code in unity, I feel like I need to see it through 
+Basically I want to add the remaining key features (sweeping, flagging)
+And start thinking about some level design ideas.
+What I am curious about is:
+What else can arise from this? What new ideas may emerge from this innocent minesweeper clone?

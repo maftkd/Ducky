@@ -1,0 +1,29 @@
+[Summary]
+Got mouse over highlighting
+Rover turns to look at selection
+Tiles can be flagged
+Did research into existing minesweeper ideas and formats
+Created a git repo hosted on github
+
+[Goals]
+Get mouse over stuff
+Get the rover to look at selection
+Implement flag dropping
+Implement sweeping
+Design a level
+
+[Misc]
+I think doing stuff like xbox controls is not a good use of time until later on in a project like this. PC platform + the fact that I am still working out the very early fundamentals...
+-
+Am trying out J-blow's // nocheckin to denote stuff that needs a rework before getting checked in
+-
+From wiki "Minesweeper (video game)":
+Commonly all mine cells are also flagged, but this is not required.
+-
+Yeah so apparently I'm not the first one to make a minesweeper variant.
+Some include: Cube, Mined-Out, Yomp, RLogic, Vinesweeper, Mole Control
+*In Minehunt for HP-48G, the only clues given are how many mines are in the surrounding squares. This and RLogic involve an avatar going from top left to bottom right
+-
+"Picross, Griddlers, Nanograms - logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden picture"
+-
+"tentaizu" japanese for a star map, minesweeper on paper, player cannot uncover. Some squares already revealed. Player must mark mines correctly
